@@ -1,1 +1,1 @@
-Mans pirmais gir Projekts
+**Mans pirmais git Projekts**
